@@ -150,4 +150,4 @@ Update the `href` here and then update the `fonts` key in `src/theme.ts`.
 
 ## Need help?
 
-You can react out at [@arshadcn](https://twitter.com/arshadcn) or in the `#mdnext` channel on [Discord](https://discord.gg/partycorgi).
+You can react out at [@hamzadahir](https://github.com/hamzadahir) or in the `#mdnext` channel on [Discord](https://discord.gg/partycorgi).
